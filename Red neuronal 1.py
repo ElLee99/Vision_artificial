@@ -18,7 +18,7 @@ d = np.array([dataset[0, 3], dataset[1, 3], dataset[2, 3], dataset[3, 3]])
 w = np.array([1, 1, 1])
 
 
-for cont in range():
+for cont in range(12):
     
     if (cont % 4) == 0:
         cont=0
